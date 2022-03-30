@@ -1,0 +1,1 @@
+This is my first HTML project. It's primary purpose is to practice HTML skills by creating a recipes webpage. I will have demonstrated basic HTML skills as well as basic Git skills upon completion of this project.
